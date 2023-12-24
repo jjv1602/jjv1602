@@ -1,5 +1,4 @@
 ## Hi there 👋, my name is Joel 
-<img src="https://github.com/jjv1602/jjv1602/blob/main/Linkedin%20Banner.png" />
 
 ## About Me :
 My name is Joel Jaji Varghese . I am a MERN Stack Web Developer currently pursuing B.Tech. I am passionate about technoloy and innovation. 
